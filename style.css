@@ -125,10 +125,10 @@ text-align: center;
 
 .quote-container{
     display:flex;
-    margin:80px auto;
     background-color: #e5e7eb;
     justify-content: center;
-    padding:50px;
+    padding-top:50px;
+    padding-bottom:50px;
 }
 
 .quote{
